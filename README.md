@@ -1,3 +1,7 @@
 #test repo
 new testgit
-elo
+some more text
+
+fix2 changes
+
+some great text
